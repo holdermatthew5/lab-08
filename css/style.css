@@ -1,0 +1,26 @@
+body {
+  width: 960px;
+  margin: auto;
+}
+
+header {
+  background-color: ;
+  width: auto;
+}
+
+header img {
+  margin-top: 10px;
+  margin-left: 0px;
+  float: left;
+}
+
+header ul {
+  margin: 40px 0px 0px 20px;
+  float: left;
+}
+
+header li {
+  margin: 0px 50px 0px 0px;
+  display: inline;
+}
+
